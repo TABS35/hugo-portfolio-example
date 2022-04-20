@@ -1,5 +1,5 @@
 ---
-title: "About Chris"
+title: "About Tabitha"
 description: "This is my about me page, thanks for visiting!"
 featured_image: '/images/chris.webp'
 menu:
@@ -8,4 +8,4 @@ menu:
 ---
 {{< figure src="/images/chris.webp" title="Photo of Chris Reddington for his Tech Roundup video series" >}}
 
-Hi, my name is Chris and I'm a Cloud Solution Architect at Microsoft UK!
+Hi, my name is Tabitha and I'm a Customer Engineer Intern at Microsoft SA!
